@@ -30,5 +30,9 @@
   <button type="submit">Ajouter</button>
 
 </form>
+<h3>Pret ??</h3>
+<form>
+  <button type="submit">Commencer la partie !</button>
+</form>
 
 <?php include("../views/foot.php"); ?>
