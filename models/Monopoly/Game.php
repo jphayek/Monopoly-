@@ -1,7 +1,7 @@
 <?php
 
-require_once("Location.php");
-require_once("Player.php");
+// require_once("Location.php");
+// require_once("../models/Generic/Player.php");
 
 class Game{
 

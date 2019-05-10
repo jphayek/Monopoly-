@@ -1,4 +1,5 @@
 <?php
+namespace Generic;
 
 class Dice{
 
